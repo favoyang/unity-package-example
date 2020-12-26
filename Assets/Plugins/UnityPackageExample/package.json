@@ -1,5 +1,5 @@
 {
-    "name": "com.namespace.unitypackageexample-test",
+    "name": "com.namespace.unitypackageexample",
     "displayName": "Unity Package Example",
     "version": "1.0.6",
     "unity": "2018.3",
