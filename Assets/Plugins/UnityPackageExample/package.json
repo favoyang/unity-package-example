@@ -4,5 +4,5 @@
     "version": "1.0.6",
     "unity": "2018.3",
     "description": "Example package for use with the Unity 2018.3 package manager.",
-    "private": true
+    "private": false
 }
